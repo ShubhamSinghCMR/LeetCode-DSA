@@ -14,6 +14,7 @@ This repository is intended for consistent practice and concept clarity, with an
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhamSinghCMR/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShubhamSinghCMR/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/ShubhamSinghCMR/LeetCode-DSA/tree/master/0056-merge-intervals) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ShubhamSinghCMR/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ This repository is intended for consistent practice and concept clarity, with an
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShubhamSinghCMR/LeetCode-DSA/tree/master/0056-merge-intervals) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/ShubhamSinghCMR/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/ShubhamSinghCMR/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
